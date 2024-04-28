@@ -1,7 +1,9 @@
 html {
-  margin: 32px;
   font-size: 18px;
   font-family: Roboto, sans-serif;
+}
+section {
+  margin: 32px;
 }
 h1 {
   text-align: center;
